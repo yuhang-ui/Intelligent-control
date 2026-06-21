@@ -179,11 +179,11 @@ The fuzzy controller was tested using six different initial heading angles while
 
 Case	Initial angle	Odometer	Time lasted
 
-Case 1	3.140	11840	185 s
-Case 2	1.507	12180	188.05 s
-Case 3	-0.126	16210	231.95 s
-Case 4	-0.879	8877	161.55 s
-Case 5	-2.072	12830	198.95 s
+Case 1	3.140	11840	185 s    
+Case 2	1.507	12180	188.05 s    
+Case 3	-0.126	16210	231.95 s    
+Case 4	-0.879	8877	161.55 s    
+Case 5	-2.072	12830	198.95 s    
 Case 6	-2.952	11630	181.5 s
 
 All six test cases successfully reached the target without entering the obstacle regions.
